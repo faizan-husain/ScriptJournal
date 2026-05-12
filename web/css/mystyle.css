@@ -1,0 +1,22 @@
+body{
+/*    background-color: red;*/
+}
+
+.primary-background{
+    /*background: #795548!important;*/
+    background: #5D4037!important;
+}
+.secondary-background{
+    background: #E9ECEF!important;
+}
+
+.profile-img {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border: 2px solid #007bff; /* optional border */
+}
+
+
+
+
